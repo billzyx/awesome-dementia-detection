@@ -17,6 +17,7 @@
   * [Information Unit](#information-unit)
   * [Pause](#pause)
   * [Perplexity](#perplexity)
+  * [Speech and Writing](#speech-and-writing)
   * [Telephone Interview](#telephone-interview)
   * [Voice Assistant](#voice-assistant)
 - [4. Regular papers](#4-regular-papers)
