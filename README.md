@@ -29,6 +29,7 @@
   * [Parkinson’s Disease](#parkinson-s-disease)
 
 ## Papers
+
 ### 1. Survey papers
 - 2022
 	- [Speech- and Language-Based Classification of Alzheimer's Disease: A Systematic Review.](https://doi.org/10.3390/bioengineering9010027) - Inês Vigo, Luis Coelho, Sara S. Reis, Bioengineering, (2022), Cited By: 1
@@ -37,7 +38,9 @@
 	- [Artificial Intelligence, Speech, and Language Processing Approaches to Monitoring Alzheimer’s Disease: A Systematic Review](https://doi.org/10.3233/JAD-200888) - Sofia de la Fuente Garcia, C. Ritchie, S. Luz, Journal of Alzheimer's disease : JAD, (2020), Cited By: 39
 - 2018
 	- [A Review of Alzheimer's Disease Classification Using Neuropsychological Data and Machine Learning](https://doi.org/10.1109/CISP-BMEI.2018.8633126) - Gang Lyu, 2018 11th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI), (2018), Cited By: 8
+
 ### 2. Special challenges
+
 #### a. ADReSS 2020 InterSpeech
 - 2020
 	- [Multiscale System for Alzheimer's Dementia Recognition Through Spontaneous Speech](https://doi.org/10.21437/interspeech.2020-2781) - E. Edwards, Charles Dognin, B. Bollepalli, M. Singh, INTERSPEECH, (2020), Cited By: 12
@@ -52,6 +55,7 @@
 	- [Disfluencies and Fine-Tuning Pre-Trained Language Models for Detection of Alzheimer's Disease](https://doi.org/10.21437/interspeech.2020-2516) - Jiahong Yuan, Yuchen Bian, Xingyu Cai, Jiaji Huang, Z. Ye, Kenneth Ward Church, INTERSPEECH, (2020), Cited By: 32
 	- [Alzheimer's Dementia Recognition through Spontaneous Speech: The ADReSS Challenge](https://doi.org/10.21437/interspeech.2020-2571) - S. Luz, F. Haider, Sofia de la Fuente, Davida Fromm, B. MacWhinney, INTERSPEECH, (2020), Cited By: 98
 	- [Multi-Modal Fusion with Gating Using Audio, Lexical and Disfluency Features for Alzheimer's Dementia Recognition from Spontaneous Speech](https://doi.org/10.21437/Interspeech.2020-2721) - Morteza Rohanian, J. Hough, Matthew Purver, INTERSPEECH, (2020), Cited By: 26
+
 #### b. ADReSS 2020 Frontiers
 - 2021
 	- [Temporal Integration of Text Transcripts and Acoustic Features for Alzheimer's Diagnosis Based on Spontaneous Speech](https://doi.org/10.3389/fnagi.2021.642647) - Matej Martinc, F. Haider, Senja Pollak, S. Luz, Frontiers in Aging Neuroscience, (2021), Cited By: 5
@@ -67,6 +71,7 @@
 	- [Editorial: Alzheimer’s Dementia Recognition through Spontaneous Speech](https://doi.org/10.3389/fcomp.2021.780169) - S. Luz, F. Haider, Sofia de la Fuente Garcia, Davida Fromm, B. MacWhinney, Frontiers in Computer Science, (2021), Cited By: 3
 	- [Exploring Deep Transfer Learning Techniques for Alzheimer’s Dementia Detection](https://doi.org/10.3389/fcomp.2021.624683) - Youxiang Zhu, Xiaohui Liang, J. Batsis, R. Roth, Frontiers in Computer Science, (2021), Cited By: 8
 	- [A Comparison of Connected Speech Tasks for Detecting Early Alzheimer’s Disease and Mild Cognitive Impairment Using Natural Language Processing and Machine Learning](https://doi.org/10.3389/fcomp.2021.634360) - Natasha Clarke, T. Barrick, P. Garrard, Frontiers in Computer Science, (2021), Cited By: 6
+	- [Towards an Automatic Speech-Based Diagnostic Test for Alzheimer’s Disease](https://doi.org/10.3389/fcomp.2021.624594) - Roozbeh Sadeghian, J. D. Schaffer, S. Zahorian, Frontiers in Computer Science, (2021), Cited By: 2
 	- [Alzheimer’s Dementia Recognition From Spontaneous Speech Using Disfluency and Interactional Features](https://doi.org/10.3389/fcomp.2021.640669) - Shamila Nasreen, Morteza Rohanian, J. Hough, Matthew Purver, Frontiers in Computer Science, (2021), Cited By: 8
 	- [Analysis and Classification of Word Co-Occurrence Networks From Alzheimer’s Patients and Controls](https://doi.org/10.3389/fcomp.2021.649508) - Tristan Millington, S. Luz, Frontiers in Computer Science, (2021), Cited By: 5
 	- [Learning Language and Acoustic Models for Identifying Alzheimer’s Dementia From Speech](https://doi.org/10.3389/fcomp.2021.624659) - Zehra Shah, Jeffrey Sawalha, Mashrura Tasnim, S. Qi, Eleni Stroulia, R. Greiner, Frontiers in Computer Science, (2021), Cited By: 7
@@ -75,6 +80,7 @@
 - 2020
 	- [Longitudinal Speech Biomarkers for Automated Alzheimer's Detection](https://doi.org/10.3389/fcomp.2021.624694) - Jordi Laguarta, B. Subirana, Frontiers in Computer Science, (2020), Cited By: 12
 	- [Dual-Task Training Affect Cognitive and Physical Performances and Brain Oscillation Ratio of Patients With Alzheimer’s Disease: A Randomized Controlled Trial](https://doi.org/10.3389/fnagi.2020.605317) - Elnaz Parvin, F. Mohammadian, Sadegh Amani-shalamzari, M. Bayati, Behnaz Tazesh, Frontiers in Aging Neuroscience, (2020), Cited By: 6
+
 #### c. ADReSSo 2021
 - 2021
 	- [Using the Outputs of Different Automatic Speech Recognition Paradigms for Acoustic- and BERT-Based Alzheimer's Dementia Detection Through Spontaneous Speech](https://doi.org/10.21437/interspeech.2021-1519) - Yilin Pan, B. Mirheidari, Jennifer M. Harris, J. Thompson, Matthew Jones, J. Snowden, Daniel Blackburn, H. Christensen, Interspeech, (2021), Cited By: 8
@@ -89,7 +95,9 @@
 	- [Detecting cognitive decline using speech only: The ADReSSo Challenge](https://doi.org/10.1101/2021.03.24.21254263) - S. Luz, F. Haider, Sofia de la Fuente, Davida Fromm, B. MacWhinney, medRxiv, (2021), Cited By: 31
 	- [Alzheimer's Dementia Recognition Using Acoustic, Lexical, Disfluency and Speech Pause Features Robust to Noisy Inputs](https://doi.org/10.21437/interspeech.2021-1633) - Morteza Rohanian, J. Hough, Matt Purver, Interspeech, (2021), Cited By: 10
 	- [Modular Multi-Modal Attention Network for Alzheimer's Disease Detection Using Patient Audio and Language Data](https://doi.org/10.21437/interspeech.2021-2024) - Ning Wang, Yupeng Cao, Shuai Hao, Zongru Shao, K.P. Subbalakshmi, Interspeech, (2021), Cited By: 4
+
 ### 3. Novel research topics in dementia
+
 #### ASR
 - 2022
 	- [Evaluating Web-Based Automatic Transcription for Alzheimer Speech Data: Transcript Comparison and Machine Learning Analysis.](https://doi.org/10.2196/33460) - Thomas Soroski, Thiago da Cunha Vasco, Sally May Newton‐Mason, Saffrin Granby, Caitlin Lewis, Anuj Harisinghani, Matteo Rizzo, C. Conati, Gabriel Murray, G. Carenini, Thalia S. Field, Hyeju Jang, JMIR aging, (2022), Cited By: 0
@@ -103,6 +111,7 @@
 	- [A Speech Recognition-based Solution for the Automatic Detection of Mild Cognitive Impairment from Spontaneous Speech](https://doi.org/10.2174/1567205014666171121114930) - L. Tóth, I. Hoffmann, G. Gosztolya, V. Vincze, Gréta Szatlóczki, Zoltán Bánréti, M. Pákáski, J. Kálmán, Current Alzheimer research, (2018), Cited By: 106
 - 2015
 	- [Automatic detection of mild cognitive impairment from spontaneous speech using ASR](https://www.semanticscholar.org/paper/651fd60a871cd7f06511da049427cd7702965884) - L. Tóth, G. Gosztolya, V. Vincze, I. Hoffmann, Gréta Szatlóczki, Edit Biró, Fruzsina Zsura, M. Pákáski, J. Kálmán, INTERSPEECH, (2015), Cited By: 76
+
 #### Data Augmentation
 - 2022
 	- [Data Augmentation for Dementia Detection in Spoken Language](https://doi.org/10.48550/arXiv.2206.12879) - Anna Hl'edikov'a, Dominika Woszczyk, Alican Acman, Soteris Demetriou, Björn Schuller, Interspeech 2022, (2022), Cited By: 0
@@ -111,14 +120,17 @@
 	- [Automatic Speech Classifier for Mild Cognitive Impairment and Early Dementia](https://doi.org/10.1145/3469089) - Flavio Bertini, Davide Allevi, Gianluca Lutero, D. Montesi, L. Calzà, ACM Trans. Comput. Heal., (2021), Cited By: 2
 - 2020
 	- [Data augmentation using generative networks to identify dementia](https://arxiv.org/abs/2004.05989) - B. Mirheidari, Yilin Pan, D. Blackburn, R. O'Malley, Traci Walker, A. Venneri, M. Reuber, H. Christensen, ArXiv, (2020), Cited By: 1
+
 #### Dialog Act
 - 2020
 	- [Modeling Dialogue in Conversational Cognitive Health Screening Interviews](https://www.semanticscholar.org/paper/cf0c7194c5342f4d167e95c54685f5f564a7d12b) - S. Farzana, Mohammad Valizadeh, Natalie Parde, LREC, (2020), Cited By: 4
+
 #### Emotion
 - 2021
 	- [Audio-Visual Recognition of Emotional Engagement of People with Dementia](https://doi.org/10.21437/interspeech.2021-567) - Lars Steinert, F. Putze, Dennis Küster, T. Schultz, Interspeech, (2021), Cited By: 3
 - 2020
 	- [Towards Engagement Recognition of People with Dementia in Care Settings](https://doi.org/10.1145/3382507.3418856) - Lars Steinert, F. Putze, Dennis Küster, T. Schultz, ICMI, (2020), Cited By: 7
+
 #### Explainable
 - 2022
 	- [Dementia Detection Using Language Models and Transfer Learning](https://doi.org/10.1145/3520084.3520108) - Mondher Bouazizi, Chuheng Zheng, T. Ohtsuki, ICSIM, (2022), Cited By: 0
@@ -130,17 +142,22 @@
 	- [Exploiting Fully Convolutional Network and Visualization Techniques on Spontaneous Speech for Dementia Detection](https://arxiv.org/abs/2008.07052) - Youxiang Zhu, Xiaohui Liang, ArXiv, (2020), Cited By: 2
 - 2019
 	- [A Neural Model for Predicting Dementia from Language](https://www.semanticscholar.org/paper/43d17de93cad046fd96caa955b6ba07d53e12de1) - Weirui Kong, Hyeju Jang, G. Carenini, Thalia Shoshana Field, MLHC, (2019), Cited By: 10
+
 #### Eye-tracking
+
 #### Information Unit
 - 2016
 	- [Vector-space topic models for detecting Alzheimer’s disease](https://doi.org/10.18653/v1/P16-1221) - Maria Yancheva, F. Rudzicz, ACL, (2016), Cited By: 46
+
 #### Intermediate Pretraining
 - 2022
 	- [Domain-aware Intermediate Pretraining for Dementia Detection with Limited Data](https://doi.org/10.21437/interspeech.2022-10862) - Youxiang Zhu, Xiaohui Liang, J. Batsis, R. Roth, Interspeech 2022, (2022), Cited By: 0
+
 #### Novel Speech Tasks
 - 2022
 	- [Going Beyond the Cookie Theft Picture Test: Detecting Cognitive Impairments using Acoustic Features](https://doi.org/10.48550/arXiv.2206.05018) - Franziska Braun, Andreas Erzigkeit, H. Lehfeld, T. Hillemacher, K. Riedhammer, S. Bayerl, TSD, (2022), Cited By: 0
-#### Pause|Disfluencies
+
+#### Pause&Disfluencies
 - 2022
 	- [How You Say It Matters: Measuring the Impact of Verbal Disfluency Tags on Automated Dementia Detection](https://doi.org/10.18653/v1/2022.bionlp-1.4) - S. Farzana, Ashwin Deshpande, Natalie Parde, BIONLP, (2022), Cited By: 0
 - 2021
@@ -151,15 +168,18 @@
 	- [An Automated Approach to Examining Pausing in the Speech of People With Dementia](https://doi.org/10.1177/1533317520939773) - Rachel A. Sluis, Daniel Angus, Janet Wiles, A. Back, Tingting Amy Gibson, J. Liddle, Peter Worthy, D. Copland, A. Angwin, American journal of Alzheimer's disease and other dementias, (2020), Cited By: 9
 - 2009
 	- [Examining Pauses in Alzheimer's Discourse](https://doi.org/10.1177/1533317508328138) - B. Davis, M. Maclagan, American journal of Alzheimer's disease and other dementias, (2009), Cited By: 43
+
 #### Perplexity
 - 2019
 	- [Detecting Alzheimer's Disease from Continuous Speech Using Language Models.](https://doi.org/10.3233/JAD-190452) - Zhiqiang Guo, Zhenhua Ling, Yunxia Li, Journal of Alzheimer's disease : JAD, (2019), Cited By: 11
 	- [Perplexity – a new predictor of cognitive changes in spoken language? – results of the Interdisciplinary Longitudinal Study on Adult Development and Aging (ILSE)](https://doi.org/10.1515/lingvan-2018-0026) - C. Frankenberg, Jochen Weiner, Tanja Schultz, M. Knebel, C. Degen, H. Wahl, J. Schroeder, Linguistics Vanguard, (2019), Cited By: 18
 - 2018
 	- [Language Modelling for the Clinical Semantic Verbal Fluency Task](https://www.semanticscholar.org/paper/88188082df9ec54d05753d88f3b4f92f31f86a9e) - N. Linz, J. Tröger, Hali Lindsay, A. König, P. Robert, J. Peter, J. Alexandersson, , (2018), Cited By: 3
+
 #### Speech and Writing
 - 2021
 	- [A Longitudinal Multi-modal Dataset for Dementia Monitoring and Diagnosis](https://arxiv.org/abs/2109.01537) - Dimitris Gkoumas, Bo Wang, A. Tsakalidis, M. Wolters, A. Zubiaga, Matthew Purver, M. Liakata, ArXiv, (2021), Cited By: 1
+
 #### Telephone Interview
 - 2022
 	- [Accuracy of telephone screening tools to identify dementia patients remotely: systematic review](https://doi.org/10.1177/20542704221115956) - Charlotte Olivia Riley, B. McKinstry, K. Fairhurst, JRSM open, (2022), Cited By: 0
@@ -170,12 +190,14 @@
 	- [Validation of the Telephone Interview for Cognitive Status (TICS) in Japanese](https://doi.org/10.1002/GPS.1812) - Y. Konagaya, Y. Washimi, H. Hattori, A. Takeda, Tomoyuki Watanabe, T. Ohta, International journal of geriatric psychiatry, (2007), Cited By: 31
 - 1988
 	- [The telephone interview for cognitive status](https://www.semanticscholar.org/paper/f29b4c35e8b57cebb570eaadbee1bdb95fd5d716) - J. Brandt, M. Spencer, M. Folstein, , (1988), Cited By: 653
+
 #### Voice Assistant
 - 2022
 	- [Evaluating voice-assistant commands for dementia detection](https://doi.org/10.1016/j.csl.2021.101297) - Xiaohui Liang, J. Batsis, Youxiang Zhu, Tiffany Driesse, R. Roth, D. Kotz, B. MacWhinney, Comput. Speech Lang., (2022), Cited By: 1
 	- [Alzheimer's Dementia Detection through Spontaneous Dialogue with Proactive Robotic Listeners](https://doi.org/10.1109/HRI53351.2022.9889375) - Yuanchao Li, Catherine Lai, Divesh Lala, Koji Inoue, T. Kawahara, 2022 17th ACM/IEEE International Conference on Human-Robot Interaction (HRI), (2022), Cited By: 1
 - 2017
 	- [An Avatar-Based System for Identifying Individuals Likely to Develop Dementia](https://doi.org/10.21437/INTERSPEECH.2017-690) - B. Mirheidari, D. Blackburn, K. Harkness, Traci Walker, A. Venneri, M. Reuber, H. Christensen, INTERSPEECH, (2017), Cited By: 23
+
 ### 4. Regular papers
 - 2022
 	- [Using Spectral Sequence-to-Sequence Autoencoders to Assess Mild Cognitive Impairment](https://doi.org/10.1109/icassp43922.2022.9746148) - Mercedes Vetráb, José Vicente Egas López, R. Balogh, N. Imre, I. Hoffmann, L. Tóth, M. Pákáski, J. Kálmán, G. Gosztolya, ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), (2022), Cited By: 0
@@ -240,18 +262,23 @@
 	- [Detecting Mild Cognitive Impairment from Spontaneous Speech by Correlation-Based Phonetic Feature Selection](https://doi.org/10.21437/Interspeech.2016-384) - G. Gosztolya, L. Tóth, Tamás Grósz, V. Vincze, I. Hoffmann, Gréta Szatlóczki, M. Pákáski, J. Kálmán, INTERSPEECH, (2016), Cited By: 29
 - 2015
 	- [Linguistic Features Identify Alzheimer's Disease in Narrative Speech.](https://doi.org/10.3233/JAD-150520) - Kathleen C. Fraser, J. Meltzer, F. Rudzicz, Journal of Alzheimer's disease : JAD, (2015), Cited By: 419
+
 ### 5. Related works in other domains
+
 #### Aphasia
 - 2020
 	- [BlaBla: Linguistic Feature Extraction for Clinical Analysis in Multiple Languages](https://doi.org/10.21437/interspeech.2020-2880) - Abhishek Shivkumar, J. Weston, R. Lenain, E. Fristed, INTERSPEECH, (2020), Cited By: 1
+
 #### Asthma
 - 2020
 	- [Analysis of Acoustic Features for Speech Sound Based Classification of Asthmatic and Healthy Subjects](https://doi.org/10.1109/ICASSP40776.2020.9054062) - Shivani Yadav, Merugu Keerthana, D. Gope, U. Krishnaswamy, P. Ghosh, ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), (2020), Cited By: 12
+
 #### Disfluency
 - 2020
 	- [Re-framing Incremental Deep Language Models for Dialogue Processing with Multi-task Learning](https://doi.org/10.18653/V1/2020.COLING-MAIN.43) - Morteza Rohanian, J. Hough, COLING, (2020), Cited By: 3
 - 2019
 	- [Neural Constituency Parsing of Speech Transcripts](https://doi.org/10.18653/v1/N19-1282) - Paria Jamshid Lou, Yufei Wang, Mark Johnson, NAACL, (2019), Cited By: 13
+
 #### Parkinson’s Disease
 - 2021
 	- [Supervised Speech Representation Learning for Parkinson's Disease Classification](https://arxiv.org/abs/2106.00531) - Parvaneh Janbakhshi, I. Kodrasi, ITG Conference on Speech Communication, (2021), Cited By: 2
