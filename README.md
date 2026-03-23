@@ -324,6 +324,8 @@
 	- [Neural Architecture Search with Multimodal Fusion Methods for Diagnosing Dementia](https://doi.org/10.1109/ICASSP49357.2023.10096579) - Michail Chatzianastasis, Loukas Ilias, D. Askounis, M. Vazirgiannis, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 3
 
 #### Novel Speech Tasks
+- 2026
+	- [Automated Six-Dimension Narrative Quality Assessment for Chinese Autobiographical Memories in Digital Reminiscence Therapy](https://github.com/cittaverse/narrative-scorer) - CittaVerse, GitHub (open-source, MIT), (2026), Cited By: 0. *First automated scorer for Chinese autobiographical memory narratives. Measures event richness, temporal/causal coherence, emotional depth, identity integration, and information density. Designed for MCI early screening via digital reminiscence therapy. Neuro-symbolic approach (no LLM dependency). Pilot RCT N=50 planned.*
 - 2022
 	- [Going Beyond the Cookie Theft Picture Test: Detecting Cognitive Impairments using Acoustic Features](https://doi.org/10.1007/978-3-031-16270-1_36) - Franziska Braun, Andreas Erzigkeit, H. Lehfeld, T. Hillemacher, K. Riedhammer, S. Bayerl, International Conference on Text, Speech and Dialogue, (2022), Cited By: 10
 	- [The Hong Kong Grocery Shopping Dialog Task (HK-GSDT): A Quick Screening Test for Neurocognitive Disorders](https://doi.org/10.3390/ijerph192013302) - Xianmin Gong, P. Wong, H. Fung, V. C. T. Mok, T. Kwok, Jean Woo, Ka Ho WONG, Helen Meng, International Journal of Environmental Research and Public Health, (2022), Cited By: 7
